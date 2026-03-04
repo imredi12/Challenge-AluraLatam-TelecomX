@@ -11,7 +11,7 @@ El análisis incluye el proceso completo de:
 
 El propósito principal es identificar factores asociados a la cancelación del servicio y proponer recomendaciones que ayuden a reducir la evasión de clientes.
 
-##💡Cómo abrir el proyecto
+## 💡Cómo abrir el proyecto
 
 # 1. Clonar el repositorio
 git clone https://github.com/TU_USUARIO/telecomx-latam-churn.git
