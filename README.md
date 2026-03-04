@@ -22,4 +22,4 @@ pip install pandas numpy matplotlib seaborn
 
 ### 3. Abrir el notebook
 jupyter notebook TelecomX_LATAM.ipynb
-# O en Google Colab: subir los 3 archivos y ejecutar Kernel → Restart & Run All
+### O en Google Colab: subir los 3 archivos y ejecutar Kernel → Restart & Run All
